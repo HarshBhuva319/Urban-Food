@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+.slide-bar-bg {
+    background: linear-gradient(to bottom, #3a8bff, #70c3ff);
+    height: 600px;
+    width: 20%;
+    left: 0;
+    top: 0;
+    z-index: -2;
+    position: absolute;
+
+}
+.right {
+    background-color: rgb(255, 255, 255);
+    width: 30%;
+    margin-left: 100px;
+    box-shadow: 1px 1px 5px black;
+}
+.main{
+    position: relative;
+}
+#sec1-2{
+    position: absolute;
+}
+.logo{
+    height: 50px;
+    width: 45px;
+}
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.navbar{
+    float: right;
+}
+.page1{
+    padding-bottom: 107px;
+    width: auto;
+    position: relative;
+    padding-left: 70px;
+}
+#momo{
+    padding-bottom: 40px;
+    width: 270px;
+    border: 1px solid black;
+    margin-top: 60px;
+    border-radius: 20px;
+    position: relative;
+}
+.momos{
+    height: 150px;
+    width: 200px;
+    margin-left: 40px;
+}
+.ar{
+    height: 20px;
+    width: 20px;
+}
+.good-food{
+    font-size: 55px;
+    padding-top:55px ;
+}
+.contact-us,.order-now{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #51b5ef;
+}
+.order-now{
+    background-color: black;
+}
+.green-line{
+    height: 3px;
+    position: relative;
+    background: rgb(0, 255, 4) ;
+    width: 150px;
+    padding-right: 120px;
+    left: -50px;
+    bottom:90px;
+}
+.hr{
+    position: fixed;
+    border-radius: 20px;
+    border: 0;
+}
+.home{
+    padding-left: 40px;
+}
+.good-food-2
+{
+    writing-mode: vertical-lr;
+    display: inline-block;
+    height: 350px;
+    width: 300px;
+    margin: 5px;
+    text-orientation: upright;
+    padding-left: 90px;
+}
+.gf{
+    letter-spacing: 30px;
+    padding-left:235px;
+}
+.hr2{
+    height: 3px;
+    width: 200px;
+}
+.about{
+    white-space: pre;
+}
+.read-more{
+    padding: 10px;
+}
+.about-food-img{
+    height: 400px;
+    width:100%;      
+}
+.sec{
+    padding-top: 100px;
+}
+.vegies{
+    padding-top: 35px;
+}
+.veg{
+    height: 350px;
+    width: 600px;
+    padding-left: 70px;
+}
+.blu1{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.blu{
+    height: 3px;
+    padding-left: 220px;
+}
+.our{
+    padding-left: 125px;
+}
+.section4{
+    padding-top: 120px;
+    padding-left: px;
+}
+#hr3{
+    height: 3px;
+    width: 150px;
+    border-radius: 20px;
+}
+#sec5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.less-than,.greater-than{
+    height: 40px;
+    width: 40px;
+}
+.btn-less{
+    padding-left: 50px;
+}
+.btn-greater{
+    padding-right: 50px;
+}
+#hr4{
+    height: 3px;
+    width: 150px;
+}
+#dish1{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.burger{
+    border-radius: 10%;
+    height: 180px;
+    width: 230px;
+}
+.price{
+    margin-top: 30px;
+}
+.order-now2{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding: 10px;
+}
+.section6{
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+.background{
+    height: 500px;
+    width: 100%;
+}
+#back1{
+    position: absolute;
+}
+#model{
+    position: relative;
+}
+.model2{
+    height: 600px;
+    position: absolute;
+    top: -100px;
+}
+.app{
+    padding-top: 70px;
+}
+.section7{
+    padding-top: 100px;
+}
+.what{
+   align-items: center;
+}
+#hr-5{
+    height: 3px;
+    border-radius: 20px;
+}
+#jack{
+    padding-left: 70px;
+}
+
+input{
+    width: 100%;
+    padding: 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background:none;
+    border-bottom: 3px solid lightgray;
+}
+.send{
+    border-radius: 30px;
+}
+.location,.call,.mail{
+    height: 50px;
+    width: 50px;
+}
+.sec8{
+    background-color: rgb(51, 51, 51);
+}
+.mail2{
+    width: 45%;
+    position: absolute;
+    border: none;
+    border-bottom: 3px solid white;
+}
+.subscribe{
+    position:relative;
+    background-color: rgb(51, 51, 51);
+    cursor: pointer;
+    padding-left: 250px;
+}
+.sec9{
+    background-color: #252525;
+}
+.fa-facebook {
+    background: #3B5998;
+    border-radius: 50%;
+}  
+.fa-twitter {
+    background: #55ACEE;
+    border-radius: 50%;
+}
+.fa-linkedin {
+    background: #007bb5;
+    border-radius: 50%;
+}
+.fa-youtube-play{
+    border-radius: 50%; 
+}
