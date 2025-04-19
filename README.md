@@ -1,1 +1,1 @@
-# Urban-Food
+The aim of Urban Food is to simplify and enhance the food ordering experience for urban communities by providing a seamless, user-friendly platform for browsing, selecting, and ordering meals from local restaurants.
